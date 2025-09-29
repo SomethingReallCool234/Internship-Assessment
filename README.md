@@ -53,7 +53,7 @@ This approach flags products performing unusually well or poorly, enabling focus
 ## **AI Usage Disclosure**
 
 **AI Tools Used:** Assisted with drafting content, structuring the analysis, and generating initial code snippets.  
-**Manual Validation:** All data cleaning, KPI computation, and results were manually validated to ensure accuracy and business relevance.  
+**Manual Validation:** All data cleaning, KPI computation, and results were manually validated to ensure accuracy.  
 **Data Understanding:** Column names and meanings were documented to avoid misinterpretation.
 
 
