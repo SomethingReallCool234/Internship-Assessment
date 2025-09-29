@@ -1,0 +1,2 @@
+identifier,units_shipped,units_returned,current_fba_inventory,velocity_score,ad_spend,revenue,return_rate,ad_to_revenue_ratio,velocity_per_unit,high_return,low_roi,low_velocity
+NT-EARBUD-X1-BLK,0,8.0,85.0,0.8,,,8.0,,0.009411764705882354,True,False,False

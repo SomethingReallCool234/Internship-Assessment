@@ -1,0 +1,2 @@
+identifier,units_shipped,units_returned,current_fba_inventory,velocity_score,ad_spend,revenue,return_rate,ad_to_revenue_ratio,velocity_per_unit,high_return,low_roi,low_velocity
+NT-CHARGER-Q3,300,22.0,278.0,3.9,2970.0,7953.389999999999,0.07333333333333333,0.3734256713175137,0.014028776978417265,False,True,False

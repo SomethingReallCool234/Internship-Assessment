@@ -1,0 +1,2 @@
+identifier,units_shipped,units_returned,current_fba_inventory,velocity_score,ad_spend,revenue,return_rate,ad_to_revenue_ratio,velocity_per_unit,high_return,low_roi,low_velocity
+NT-TABLET-P6,100,3.0,0.0,0.0,4500.0,17599.68,0.03,0.2556864670266732,0.0,False,False,True
