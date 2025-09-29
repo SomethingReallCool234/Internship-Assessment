@@ -1,5 +1,4 @@
 import pandas as pd
-import json
 import os
 
 # Create outputs folder if it doesn't exist
@@ -9,13 +8,6 @@ os.makedirs('outputs', exist_ok = True)
 catalog_df = pd.read_csv('scripts/given_dataset/internal_catalog_dump.csv') 
 inventory_df = pd.read_csv('scripts/given_dataset/inventory_movements.csv')
 performance_df = pd.read_csv('scripts/given_dataset/performance_metrics.csv')
-
-# Load JSON files
-with open('scripts/given_dataset/marketplace_snapshot.json') as f:
-    marketplace_snapshot = json.load(f)
-
-with open('scripts/given_dataset/competitor_intelligence.json') as f:
-    competitor_intelligence = json.load(f)
 
 # Convert date columns to datetime
 inventory_df['date'] = pd.to_datetime(inventory_df['date'], errors='coerce')

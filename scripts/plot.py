@@ -71,5 +71,5 @@ plt.tight_layout()
 
 # Save plot to both folders
 plt.savefig('outputs/plots/ad_to_revenue_vs_velocity_labels.png')
-plt.savefig('plots/ad_to_revenue_vs_velocity_labels.png')
+plt.savefig('outputs/plots/ad_to_revenue_vs_velocity_labels.png')
 plt.close()
