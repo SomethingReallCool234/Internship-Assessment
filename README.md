@@ -53,17 +53,17 @@ This approach flags products performing unusually well or poorly, enabling focus
 
 ## **Future Enhancements & Recommendations**
 
-## **Automate Data Pipelines**  
+**Automate Data Pipelines**  
 Build automated ingestion and transformation pipelines for real-time KPI tracking.
 
-## **Integrate Customer Feedback**  
+**Integrate Customer Feedback**  
 Add sentiment analysis from reviews to explain high returns or low satisfaction.
 
-## **Predictive Modeling**  
+**Predictive Modeling**  
 Apply machine learning to forecast demand and detect at-risk SKUs early.
 
-## **Inventory Optimization**  
+**Inventory Optimization**  
 Use KPIs and forecasts for smarter replenishment and stock allocation.
 
-## **Interactive Dashboards**  
+**Interactive Dashboards**  
 Create visual dashboards to monitor KPI trends, inventory health, and marketing performance.
