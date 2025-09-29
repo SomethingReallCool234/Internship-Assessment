@@ -90,7 +90,7 @@ These assumptions helped maintain clarity and consistency throughout the analysi
 ## **AI Usage Disclosure**
 
 I used **AI tools** to help **structure the analysis**, **draft content**, and generate some **code snippets** for cleaning and merging.  
-However, **all core analysis, validation, and interpretations** were done manually to ensure **accuracy and business relevance**.  
+However, **all core analysis, validation, and interpretations** were done manually to ensure **accuracy**.  
 
 I also made sure to **document the meaning of each column** during exploration to avoid misinterpretation later.
 
