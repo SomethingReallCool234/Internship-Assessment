@@ -12,7 +12,6 @@ velocity_threshold = summary['velocity_per_unit'].quantile(0.1)
 
 # Ensure directories exist
 os.makedirs('outputs/plots', exist_ok=True)
-os.makedirs('plots', exist_ok=True)
 
 def label_points(ax, df, x_col, y_col, label_col):
     for _, row in df.iterrows():
@@ -43,7 +42,6 @@ plt.tight_layout()
 
 # Save plot to both folders
 plt.savefig('outputs/plots/return_vs_velocity_labels.png')
-plt.savefig('plots/return_vs_velocity_labels.png')
 plt.close()
 
 # Plot 2: Ad to Revenue Ratio vs Velocity Score
@@ -70,6 +68,5 @@ ax.legend()
 plt.tight_layout()
 
 # Save plot to both folders
-plt.savefig('outputs/plots/ad_to_revenue_vs_velocity_labels.png')
 plt.savefig('outputs/plots/ad_to_revenue_vs_velocity_labels.png')
 plt.close()
